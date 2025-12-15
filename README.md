@@ -119,7 +119,7 @@ Key design decisions:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/your-username/Database_Group7_Library-Management-System.git
    ```
 2. Open MySQL Workbench
 3. Import the SQL scripts from the repository
@@ -144,7 +144,15 @@ Key design decisions:
 
 ## 👥 Group Members
 
-* *Add group member names here*
+* *Dinar Nato*
+* *Jemimah Baraka*
+* *Samuel Ngaru*
+* *Brandon Mwalimu*
+* *Daisy Jebet*
+* *Ezra Njiraini*
+* *Peace Kawa*
+* *Oscar Mahugu*
+* *Leisi Shapara*
 
 ---
 
