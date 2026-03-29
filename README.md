@@ -142,20 +142,6 @@ Key design decisions:
 
 ---
 
-## 👥 Group Members
-
-* *Dinar Nato*
-* *Jemimah Baraka*
-* *Samuel Ngaru*
-* *Brandon Mwalimu*
-* *Daisy Jebet*
-* *Ezra Njiraini*
-* *Peace Kawa*
-* *Oscar Mahugu*
-* *Leisi Shapara*
-
----
-
 ## ✅ Conclusion
 
 This project demonstrates proper database design practices by translating real-world library processes into a structured, normalized relational database. The system is scalable, maintainable, and accurately reflects library operations.
