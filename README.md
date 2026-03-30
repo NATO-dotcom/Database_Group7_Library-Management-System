@@ -1,7 +1,7 @@
 
 # 📚 Library Management System – Database Design
 
-## 📌 Project Overview
+##  Project Overview
 
 This project involves the design and implementation of a **Library Management System database** based on a real-world library study. The system models how libraries manage books, physical copies, patrons, librarians, borrowing, reservations, acquisitions, and fines.
 
@@ -9,7 +9,7 @@ The project focuses on **database design**, including requirement analysis, conc
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 * To analyze real library operations through a physical library visit
 * To identify key entities, relationships, and constraints
@@ -20,7 +20,7 @@ The project focuses on **database design**, including requirement analysis, conc
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **MySQL**
 * **MySQL Workbench**
@@ -30,7 +30,7 @@ The project focuses on **database design**, including requirement analysis, conc
 
 ---
 
-## 📋 System Requirements
+## System Requirements
 
 ### Functional Requirements
 
